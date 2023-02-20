@@ -13,4 +13,4 @@ A simple stock management project created with Python to store and manage items 
 <img width="463" alt="Screenshot_20230220_065346" src="https://user-images.githubusercontent.com/102332600/220020793-ecfccb80-0bb6-4d0d-9395-f3c1f3a7f748.png">
 
 #### Buy Product
-<img width="463" alt="Screenshot_20230220_065346" src="https://user-images.githubusercontent.com/102332600/220020940-b41fdf4d-ec76-4870-86e2-58789c118e0d.png">
+<img width="553" alt="Screenshot_20230220_065447" src="https://user-images.githubusercontent.com/102332600/220021661-03feb78f-549b-4ad2-8b99-4873c7db37dc.png">
